@@ -3,7 +3,6 @@ export const config = {
   // 包含网站状态码、数据文件路径等基础系统配置
   base: {
     // 调试仓库地址（线上使用请设置为空）
-    debug_repo: 'xaoxuu/hexo-theme-stellar-showcase',
     // 网站状态枚举值
     site_status: {
       valid: 'valid',
